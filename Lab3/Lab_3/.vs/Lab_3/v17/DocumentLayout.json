@@ -1,0 +1,453 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01FAC894-D432-459C-BE06-345BE2E593E9}|Lab_3\\Lab_3.csproj|d:\\ffffffffffffff\\lab1\\konstruyuvannya\\lab3\\lab_3\\lab_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01FAC894-D432-459C-BE06-345BE2E593E9}|Lab_3\\Lab_3.csproj|solutionrelative:lab_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01FAC894-D432-459C-BE06-345BE2E593E9}|Lab_3\\Lab_3.csproj|D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\lab_3\\lighthtml\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01FAC894-D432-459C-BE06-345BE2E593E9}|Lab_3\\Lab_3.csproj|solutionrelative:lab_3\\lighthtml\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01FAC894-D432-459C-BE06-345BE2E593E9}|Lab_3\\Lab_3.csproj|D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\lab_3\\lighthtml\\lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01FAC894-D432-459C-BE06-345BE2E593E9}|Lab_3\\Lab_3.csproj|solutionrelative:lab_3\\lighthtml\\lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01FAC894-D432-459C-BE06-345BE2E593E9}|Lab_3\\Lab_3.csproj|D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\lab_3\\lighthtml\\lightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01FAC894-D432-459C-BE06-345BE2E593E9}|Lab_3\\Lab_3.csproj|solutionrelative:lab_3\\lighthtml\\lightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01FAC894-D432-459C-BE06-345BE2E593E9}|Lab_3\\Lab_3.csproj|D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\lab_3\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01FAC894-D432-459C-BE06-345BE2E593E9}|Lab_3\\Lab_3.csproj|solutionrelative:lab_3\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01FAC894-D432-459C-BE06-345BE2E593E9}|Lab_3\\Lab_3.csproj|D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\lab_3\\smarttextreader\\readers\\smarttextlocker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01FAC894-D432-459C-BE06-345BE2E593E9}|Lab_3\\Lab_3.csproj|solutionrelative:lab_3\\smarttextreader\\readers\\smarttextlocker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01FAC894-D432-459C-BE06-345BE2E593E9}|Lab_3\\Lab_3.csproj|D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\lab_3\\smarttextreader\\readers\\smarttextchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01FAC894-D432-459C-BE06-345BE2E593E9}|Lab_3\\Lab_3.csproj|solutionrelative:lab_3\\smarttextreader\\readers\\smarttextchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01FAC894-D432-459C-BE06-345BE2E593E9}|Lab_3\\Lab_3.csproj|D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\lab_3\\smarttextreader\\readers\\smarttextreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01FAC894-D432-459C-BE06-345BE2E593E9}|Lab_3\\Lab_3.csproj|solutionrelative:lab_3\\smarttextreader\\readers\\smarttextreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01FAC894-D432-459C-BE06-345BE2E593E9}|Lab_3\\Lab_3.csproj|D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\lab_3\\smarttextreader\\readers\\ismarttextreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01FAC894-D432-459C-BE06-345BE2E593E9}|Lab_3\\Lab_3.csproj|solutionrelative:lab_3\\smarttextreader\\readers\\ismarttextreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01FAC894-D432-459C-BE06-345BE2E593E9}|Lab_3\\Lab_3.csproj|D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\lab_3\\graphicseditor\\shapes\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01FAC894-D432-459C-BE06-345BE2E593E9}|Lab_3\\Lab_3.csproj|solutionrelative:lab_3\\graphicseditor\\shapes\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01FAC894-D432-459C-BE06-345BE2E593E9}|Lab_3\\Lab_3.csproj|D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\lab_3\\graphicseditor\\shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01FAC894-D432-459C-BE06-345BE2E593E9}|Lab_3\\Lab_3.csproj|solutionrelative:lab_3\\graphicseditor\\shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01FAC894-D432-459C-BE06-345BE2E593E9}|Lab_3\\Lab_3.csproj|D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\lab_3\\graphicseditor\\shapes\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01FAC894-D432-459C-BE06-345BE2E593E9}|Lab_3\\Lab_3.csproj|solutionrelative:lab_3\\graphicseditor\\shapes\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01FAC894-D432-459C-BE06-345BE2E593E9}|Lab_3\\Lab_3.csproj|D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\lab_3\\graphicseditor\\shapes\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01FAC894-D432-459C-BE06-345BE2E593E9}|Lab_3\\Lab_3.csproj|solutionrelative:lab_3\\graphicseditor\\shapes\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01FAC894-D432-459C-BE06-345BE2E593E9}|Lab_3\\Lab_3.csproj|D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\lab_3\\graphicseditor\\renderers\\vectorrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01FAC894-D432-459C-BE06-345BE2E593E9}|Lab_3\\Lab_3.csproj|solutionrelative:lab_3\\graphicseditor\\renderers\\vectorrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01FAC894-D432-459C-BE06-345BE2E593E9}|Lab_3\\Lab_3.csproj|D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\lab_3\\graphicseditor\\renderers\\rasterrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01FAC894-D432-459C-BE06-345BE2E593E9}|Lab_3\\Lab_3.csproj|solutionrelative:lab_3\\graphicseditor\\renderers\\rasterrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01FAC894-D432-459C-BE06-345BE2E593E9}|Lab_3\\Lab_3.csproj|D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\lab_3\\graphicseditor\\renderers\\irenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01FAC894-D432-459C-BE06-345BE2E593E9}|Lab_3\\Lab_3.csproj|solutionrelative:lab_3\\graphicseditor\\renderers\\irenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01FAC894-D432-459C-BE06-345BE2E593E9}|Lab_3\\Lab_3.csproj|D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\lab_3\\fileloggeradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01FAC894-D432-459C-BE06-345BE2E593E9}|Lab_3\\Lab_3.csproj|solutionrelative:lab_3\\fileloggeradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01FAC894-D432-459C-BE06-345BE2E593E9}|Lab_3\\Lab_3.csproj|D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\lab_3\\filewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01FAC894-D432-459C-BE06-345BE2E593E9}|Lab_3\\Lab_3.csproj|solutionrelative:lab_3\\filewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01FAC894-D432-459C-BE06-345BE2E593E9}|Lab_3\\Lab_3.csproj|D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\lab_3\\rpg_game\\heroes\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01FAC894-D432-459C-BE06-345BE2E593E9}|Lab_3\\Lab_3.csproj|solutionrelative:lab_3\\rpg_game\\heroes\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01FAC894-D432-459C-BE06-345BE2E593E9}|Lab_3\\Lab_3.csproj|D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\lab_3\\rpg_game\\heroes\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01FAC894-D432-459C-BE06-345BE2E593E9}|Lab_3\\Lab_3.csproj|solutionrelative:lab_3\\rpg_game\\heroes\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01FAC894-D432-459C-BE06-345BE2E593E9}|Lab_3\\Lab_3.csproj|D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\lab_3\\rpg_game\\heroes\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01FAC894-D432-459C-BE06-345BE2E593E9}|Lab_3\\Lab_3.csproj|solutionrelative:lab_3\\rpg_game\\heroes\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01FAC894-D432-459C-BE06-345BE2E593E9}|Lab_3\\Lab_3.csproj|D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\lab_3\\rpg_game\\heroes\\paladin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01FAC894-D432-459C-BE06-345BE2E593E9}|Lab_3\\Lab_3.csproj|solutionrelative:lab_3\\rpg_game\\heroes\\paladin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01FAC894-D432-459C-BE06-345BE2E593E9}|Lab_3\\Lab_3.csproj|D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\lab_3\\rpg_game\\inventory\\herodecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01FAC894-D432-459C-BE06-345BE2E593E9}|Lab_3\\Lab_3.csproj|solutionrelative:lab_3\\rpg_game\\inventory\\herodecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01FAC894-D432-459C-BE06-345BE2E593E9}|Lab_3\\Lab_3.csproj|D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\lab_3\\rpg_game\\inventory\\weapons\\sword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01FAC894-D432-459C-BE06-345BE2E593E9}|Lab_3\\Lab_3.csproj|solutionrelative:lab_3\\rpg_game\\inventory\\weapons\\sword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01FAC894-D432-459C-BE06-345BE2E593E9}|Lab_3\\Lab_3.csproj|D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\lab_3\\rpg_game\\inventory\\armor\\leatherarmor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01FAC894-D432-459C-BE06-345BE2E593E9}|Lab_3\\Lab_3.csproj|solutionrelative:lab_3\\rpg_game\\inventory\\armor\\leatherarmor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01FAC894-D432-459C-BE06-345BE2E593E9}|Lab_3\\Lab_3.csproj|D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\lab_3\\rpg_game\\inventory\\armor\\shield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01FAC894-D432-459C-BE06-345BE2E593E9}|Lab_3\\Lab_3.csproj|solutionrelative:lab_3\\rpg_game\\inventory\\armor\\shield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01FAC894-D432-459C-BE06-345BE2E593E9}|Lab_3\\Lab_3.csproj|D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\lab_3\\rpg_game\\inventory\\artifacts\\magicamulet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01FAC894-D432-459C-BE06-345BE2E593E9}|Lab_3\\Lab_3.csproj|solutionrelative:lab_3\\rpg_game\\inventory\\artifacts\\magicamulet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LightElementNode.cs",
+              "DocumentMoniker": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\Lab_3\\LightHTML\\LightElementNode.cs",
+              "RelativeDocumentMoniker": "Lab_3\\LightHTML\\LightElementNode.cs",
+              "ToolTip": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\Lab_3\\LightHTML\\LightElementNode.cs",
+              "RelativeToolTip": "Lab_3\\LightHTML\\LightElementNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T18:23:28.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LightTextNode.cs",
+              "DocumentMoniker": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\Lab_3\\LightHTML\\LightTextNode.cs",
+              "RelativeDocumentMoniker": "Lab_3\\LightHTML\\LightTextNode.cs",
+              "ToolTip": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\Lab_3\\LightHTML\\LightTextNode.cs",
+              "RelativeToolTip": "Lab_3\\LightHTML\\LightTextNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T18:23:16.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LightNode.cs",
+              "DocumentMoniker": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\Lab_3\\LightHTML\\LightNode.cs",
+              "RelativeDocumentMoniker": "Lab_3\\LightHTML\\LightNode.cs",
+              "ToolTip": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\Lab_3\\LightHTML\\LightNode.cs",
+              "RelativeToolTip": "Lab_3\\LightHTML\\LightNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T18:23:02.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SmartTextLocker.cs",
+              "DocumentMoniker": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\Lab_3\\SmartTextReader\\Readers\\SmartTextLocker.cs",
+              "RelativeDocumentMoniker": "Lab_3\\SmartTextReader\\Readers\\SmartTextLocker.cs",
+              "ToolTip": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\Lab_3\\SmartTextReader\\Readers\\SmartTextLocker.cs",
+              "RelativeToolTip": "Lab_3\\SmartTextReader\\Readers\\SmartTextLocker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T17:03:59.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SmartTextChecker.cs",
+              "DocumentMoniker": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\Lab_3\\SmartTextReader\\Readers\\SmartTextChecker.cs",
+              "RelativeDocumentMoniker": "Lab_3\\SmartTextReader\\Readers\\SmartTextChecker.cs",
+              "ToolTip": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\Lab_3\\SmartTextReader\\Readers\\SmartTextChecker.cs",
+              "RelativeToolTip": "Lab_3\\SmartTextReader\\Readers\\SmartTextChecker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T17:03:50.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SmartTextReader.cs",
+              "DocumentMoniker": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\Lab_3\\SmartTextReader\\Readers\\SmartTextReader.cs",
+              "RelativeDocumentMoniker": "Lab_3\\SmartTextReader\\Readers\\SmartTextReader.cs",
+              "ToolTip": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\Lab_3\\SmartTextReader\\Readers\\SmartTextReader.cs",
+              "RelativeToolTip": "Lab_3\\SmartTextReader\\Readers\\SmartTextReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T17:03:41.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\Lab_3\\Program.cs",
+              "RelativeDocumentMoniker": "Lab_3\\Program.cs",
+              "ToolTip": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\Lab_3\\Program.cs",
+              "RelativeToolTip": "Lab_3\\Program.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAgwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:23:10.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\Lab_3\\Logger.cs",
+              "RelativeDocumentMoniker": "Lab_3\\Logger.cs",
+              "ToolTip": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\Lab_3\\Logger.cs",
+              "RelativeToolTip": "Lab_3\\Logger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:25:24.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ISmartTextReader.cs",
+              "DocumentMoniker": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\Lab_3\\SmartTextReader\\Readers\\ISmartTextReader.cs",
+              "RelativeDocumentMoniker": "Lab_3\\SmartTextReader\\Readers\\ISmartTextReader.cs",
+              "ToolTip": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\Lab_3\\SmartTextReader\\Readers\\ISmartTextReader.cs",
+              "RelativeToolTip": "Lab_3\\SmartTextReader\\Readers\\ISmartTextReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T17:03:31.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\Lab_3\\GraphicsEditor\\Shapes\\Triangle.cs",
+              "RelativeDocumentMoniker": "Lab_3\\GraphicsEditor\\Shapes\\Triangle.cs",
+              "ToolTip": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\Lab_3\\GraphicsEditor\\Shapes\\Triangle.cs",
+              "RelativeToolTip": "Lab_3\\GraphicsEditor\\Shapes\\Triangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:57:05.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Square.cs",
+              "DocumentMoniker": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\Lab_3\\GraphicsEditor\\Shapes\\Square.cs",
+              "RelativeDocumentMoniker": "Lab_3\\GraphicsEditor\\Shapes\\Square.cs",
+              "ToolTip": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\Lab_3\\GraphicsEditor\\Shapes\\Square.cs",
+              "RelativeToolTip": "Lab_3\\GraphicsEditor\\Shapes\\Square.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:56:56.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\Lab_3\\GraphicsEditor\\Shapes\\Circle.cs",
+              "RelativeDocumentMoniker": "Lab_3\\GraphicsEditor\\Shapes\\Circle.cs",
+              "ToolTip": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\Lab_3\\GraphicsEditor\\Shapes\\Circle.cs",
+              "RelativeToolTip": "Lab_3\\GraphicsEditor\\Shapes\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:56:49.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\Lab_3\\GraphicsEditor\\Shapes\\Shape.cs",
+              "RelativeDocumentMoniker": "Lab_3\\GraphicsEditor\\Shapes\\Shape.cs",
+              "ToolTip": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\Lab_3\\GraphicsEditor\\Shapes\\Shape.cs",
+              "RelativeToolTip": "Lab_3\\GraphicsEditor\\Shapes\\Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:56:39.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VectorRenderer.cs",
+              "DocumentMoniker": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\Lab_3\\GraphicsEditor\\Renderers\\VectorRenderer.cs",
+              "RelativeDocumentMoniker": "Lab_3\\GraphicsEditor\\Renderers\\VectorRenderer.cs",
+              "ToolTip": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\Lab_3\\GraphicsEditor\\Renderers\\VectorRenderer.cs",
+              "RelativeToolTip": "Lab_3\\GraphicsEditor\\Renderers\\VectorRenderer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:56:21.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RasterRenderer.cs",
+              "DocumentMoniker": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\Lab_3\\GraphicsEditor\\Renderers\\RasterRenderer.cs",
+              "RelativeDocumentMoniker": "Lab_3\\GraphicsEditor\\Renderers\\RasterRenderer.cs",
+              "ToolTip": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\Lab_3\\GraphicsEditor\\Renderers\\RasterRenderer.cs",
+              "RelativeToolTip": "Lab_3\\GraphicsEditor\\Renderers\\RasterRenderer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:56:11.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IRenderer.cs",
+              "DocumentMoniker": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\Lab_3\\GraphicsEditor\\Renderers\\IRenderer.cs",
+              "RelativeDocumentMoniker": "Lab_3\\GraphicsEditor\\Renderers\\IRenderer.cs",
+              "ToolTip": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\Lab_3\\GraphicsEditor\\Renderers\\IRenderer.cs",
+              "RelativeToolTip": "Lab_3\\GraphicsEditor\\Renderers\\IRenderer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:55:55.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Shield.cs",
+              "DocumentMoniker": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\Lab_3\\RPG_Game\\Inventory\\Armor\\Shield.cs",
+              "RelativeDocumentMoniker": "Lab_3\\RPG_Game\\Inventory\\Armor\\Shield.cs",
+              "ToolTip": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\Lab_3\\RPG_Game\\Inventory\\Armor\\Shield.cs",
+              "RelativeToolTip": "Lab_3\\RPG_Game\\Inventory\\Armor\\Shield.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:37:56.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LeatherArmor.cs",
+              "DocumentMoniker": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\Lab_3\\RPG_Game\\Inventory\\Armor\\LeatherArmor.cs",
+              "RelativeDocumentMoniker": "Lab_3\\RPG_Game\\Inventory\\Armor\\LeatherArmor.cs",
+              "ToolTip": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\Lab_3\\RPG_Game\\Inventory\\Armor\\LeatherArmor.cs",
+              "RelativeToolTip": "Lab_3\\RPG_Game\\Inventory\\Armor\\LeatherArmor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:37:46.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Sword.cs",
+              "DocumentMoniker": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\Lab_3\\RPG_Game\\Inventory\\Weapons\\Sword.cs",
+              "RelativeDocumentMoniker": "Lab_3\\RPG_Game\\Inventory\\Weapons\\Sword.cs",
+              "ToolTip": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\Lab_3\\RPG_Game\\Inventory\\Weapons\\Sword.cs",
+              "RelativeToolTip": "Lab_3\\RPG_Game\\Inventory\\Weapons\\Sword.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:37:25.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HeroDecorator.cs",
+              "DocumentMoniker": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\Lab_3\\RPG_Game\\Inventory\\HeroDecorator.cs",
+              "RelativeDocumentMoniker": "Lab_3\\RPG_Game\\Inventory\\HeroDecorator.cs",
+              "ToolTip": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\Lab_3\\RPG_Game\\Inventory\\HeroDecorator.cs",
+              "RelativeToolTip": "Lab_3\\RPG_Game\\Inventory\\HeroDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:36:36.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MagicAmulet.cs",
+              "DocumentMoniker": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\Lab_3\\RPG_Game\\Inventory\\Artifacts\\MagicAmulet.cs",
+              "RelativeDocumentMoniker": "Lab_3\\RPG_Game\\Inventory\\Artifacts\\MagicAmulet.cs",
+              "ToolTip": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\Lab_3\\RPG_Game\\Inventory\\Artifacts\\MagicAmulet.cs",
+              "RelativeToolTip": "Lab_3\\RPG_Game\\Inventory\\Artifacts\\MagicAmulet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:38:18.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Paladin.cs",
+              "DocumentMoniker": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\Lab_3\\RPG_Game\\Heroes\\Paladin.cs",
+              "RelativeDocumentMoniker": "Lab_3\\RPG_Game\\Heroes\\Paladin.cs",
+              "ToolTip": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\Lab_3\\RPG_Game\\Heroes\\Paladin.cs",
+              "RelativeToolTip": "Lab_3\\RPG_Game\\Heroes\\Paladin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:35:10.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Mage.cs",
+              "DocumentMoniker": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\Lab_3\\RPG_Game\\Heroes\\Mage.cs",
+              "RelativeDocumentMoniker": "Lab_3\\RPG_Game\\Heroes\\Mage.cs",
+              "ToolTip": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\Lab_3\\RPG_Game\\Heroes\\Mage.cs",
+              "RelativeToolTip": "Lab_3\\RPG_Game\\Heroes\\Mage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:34:59.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Warrior.cs",
+              "DocumentMoniker": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\Lab_3\\RPG_Game\\Heroes\\Warrior.cs",
+              "RelativeDocumentMoniker": "Lab_3\\RPG_Game\\Heroes\\Warrior.cs",
+              "ToolTip": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\Lab_3\\RPG_Game\\Heroes\\Warrior.cs",
+              "RelativeToolTip": "Lab_3\\RPG_Game\\Heroes\\Warrior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:34:49.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Hero.cs",
+              "DocumentMoniker": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\Lab_3\\RPG_Game\\Heroes\\Hero.cs",
+              "RelativeDocumentMoniker": "Lab_3\\RPG_Game\\Heroes\\Hero.cs",
+              "ToolTip": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\Lab_3\\RPG_Game\\Heroes\\Hero.cs",
+              "RelativeToolTip": "Lab_3\\RPG_Game\\Heroes\\Hero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:34:37.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FileWriter.cs",
+              "DocumentMoniker": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\Lab_3\\FileWriter.cs",
+              "RelativeDocumentMoniker": "Lab_3\\FileWriter.cs",
+              "ToolTip": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\Lab_3\\FileWriter.cs",
+              "RelativeToolTip": "Lab_3\\FileWriter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:25:35.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FileLoggerAdapter.cs",
+              "DocumentMoniker": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\Lab_3\\FileLoggerAdapter.cs",
+              "RelativeDocumentMoniker": "Lab_3\\FileLoggerAdapter.cs",
+              "ToolTip": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab3\\Lab_3\\Lab_3\\FileLoggerAdapter.cs",
+              "RelativeToolTip": "Lab_3\\FileLoggerAdapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:25:13.564Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

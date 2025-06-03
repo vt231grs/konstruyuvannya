@@ -1,0 +1,341 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{177B8DBB-2821-43C5-9697-081B4D3025A2}|Lab2\\Lab2.csproj|d:\\ffffffffffffff\\lab1\\konstruyuvannya\\lab2\\lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177B8DBB-2821-43C5-9697-081B4D3025A2}|Lab2\\Lab2.csproj|solutionrelative:lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177B8DBB-2821-43C5-9697-081B4D3025A2}|Lab2\\Lab2.csproj|D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab2\\lab2\\techfactory\\kiaomifactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177B8DBB-2821-43C5-9697-081B4D3025A2}|Lab2\\Lab2.csproj|solutionrelative:lab2\\techfactory\\kiaomifactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177B8DBB-2821-43C5-9697-081B4D3025A2}|Lab2\\Lab2.csproj|D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab2\\lab2\\techfactory\\kiaomidevices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177B8DBB-2821-43C5-9697-081B4D3025A2}|Lab2\\Lab2.csproj|solutionrelative:lab2\\techfactory\\kiaomidevices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177B8DBB-2821-43C5-9697-081B4D3025A2}|Lab2\\Lab2.csproj|D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab2\\lab2\\techfactory\\ipronefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177B8DBB-2821-43C5-9697-081B4D3025A2}|Lab2\\Lab2.csproj|solutionrelative:lab2\\techfactory\\ipronefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177B8DBB-2821-43C5-9697-081B4D3025A2}|Lab2\\Lab2.csproj|D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab2\\lab2\\techfactory\\ipronedevices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177B8DBB-2821-43C5-9697-081B4D3025A2}|Lab2\\Lab2.csproj|solutionrelative:lab2\\techfactory\\ipronedevices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177B8DBB-2821-43C5-9697-081B4D3025A2}|Lab2\\Lab2.csproj|D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab2\\lab2\\techfactory\\ideviceinterfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177B8DBB-2821-43C5-9697-081B4D3025A2}|Lab2\\Lab2.csproj|solutionrelative:lab2\\techfactory\\ideviceinterfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177B8DBB-2821-43C5-9697-081B4D3025A2}|Lab2\\Lab2.csproj|D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab2\\lab2\\techfactory\\idevicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177B8DBB-2821-43C5-9697-081B4D3025A2}|Lab2\\Lab2.csproj|solutionrelative:lab2\\techfactory\\idevicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177B8DBB-2821-43C5-9697-081B4D3025A2}|Lab2\\Lab2.csproj|D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab2\\lab2\\techfactory\\balaxyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177B8DBB-2821-43C5-9697-081B4D3025A2}|Lab2\\Lab2.csproj|solutionrelative:lab2\\techfactory\\balaxyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177B8DBB-2821-43C5-9697-081B4D3025A2}|Lab2\\Lab2.csproj|D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab2\\lab2\\techfactory\\balaxydevices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177B8DBB-2821-43C5-9697-081B4D3025A2}|Lab2\\Lab2.csproj|solutionrelative:lab2\\techfactory\\balaxydevices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177B8DBB-2821-43C5-9697-081B4D3025A2}|Lab2\\Lab2.csproj|D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab2\\lab2\\factory\\domesticsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177B8DBB-2821-43C5-9697-081B4D3025A2}|Lab2\\Lab2.csproj|solutionrelative:lab2\\factory\\domesticsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177B8DBB-2821-43C5-9697-081B4D3025A2}|Lab2\\Lab2.csproj|D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab2\\lab2\\factory\\totsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177B8DBB-2821-43C5-9697-081B4D3025A2}|Lab2\\Lab2.csproj|solutionrelative:lab2\\factory\\totsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177B8DBB-2821-43C5-9697-081B4D3025A2}|Lab2\\Lab2.csproj|D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab2\\lab2\\factory\\premiumsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177B8DBB-2821-43C5-9697-081B4D3025A2}|Lab2\\Lab2.csproj|solutionrelative:lab2\\factory\\premiumsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177B8DBB-2821-43C5-9697-081B4D3025A2}|Lab2\\Lab2.csproj|D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab2\\lab2\\factory\\educationalsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177B8DBB-2821-43C5-9697-081B4D3025A2}|Lab2\\Lab2.csproj|solutionrelative:lab2\\factory\\educationalsubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177B8DBB-2821-43C5-9697-081B4D3025A2}|Lab2\\Lab2.csproj|D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab2\\lab2\\builder\\icharacterbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177B8DBB-2821-43C5-9697-081B4D3025A2}|Lab2\\Lab2.csproj|solutionrelative:lab2\\builder\\icharacterbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177B8DBB-2821-43C5-9697-081B4D3025A2}|Lab2\\Lab2.csproj|D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab2\\lab2\\builder\\herobuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177B8DBB-2821-43C5-9697-081B4D3025A2}|Lab2\\Lab2.csproj|solutionrelative:lab2\\builder\\herobuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177B8DBB-2821-43C5-9697-081B4D3025A2}|Lab2\\Lab2.csproj|D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab2\\lab2\\builder\\enemybuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177B8DBB-2821-43C5-9697-081B4D3025A2}|Lab2\\Lab2.csproj|solutionrelative:lab2\\builder\\enemybuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177B8DBB-2821-43C5-9697-081B4D3025A2}|Lab2\\Lab2.csproj|D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab2\\lab2\\builder\\characterdirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177B8DBB-2821-43C5-9697-081B4D3025A2}|Lab2\\Lab2.csproj|solutionrelative:lab2\\builder\\characterdirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177B8DBB-2821-43C5-9697-081B4D3025A2}|Lab2\\Lab2.csproj|D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab2\\lab2\\builder\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177B8DBB-2821-43C5-9697-081B4D3025A2}|Lab2\\Lab2.csproj|solutionrelative:lab2\\builder\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177B8DBB-2821-43C5-9697-081B4D3025A2}|Lab2\\Lab2.csproj|D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab2\\lab2\\prototype\\virus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177B8DBB-2821-43C5-9697-081B4D3025A2}|Lab2\\Lab2.csproj|solutionrelative:lab2\\prototype\\virus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177B8DBB-2821-43C5-9697-081B4D3025A2}|Lab2\\Lab2.csproj|D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab2\\lab2\\alone\\authenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177B8DBB-2821-43C5-9697-081B4D3025A2}|Lab2\\Lab2.csproj|solutionrelative:lab2\\alone\\authenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab2\\Lab2\\Program.cs",
+              "RelativeDocumentMoniker": "Lab2\\Program.cs",
+              "ToolTip": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab2\\Lab2\\Program.cs",
+              "RelativeToolTip": "Lab2\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwBEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T17:24:57.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DomesticSubscription.cs",
+              "DocumentMoniker": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab2\\Lab2\\Factory\\DomesticSubscription.cs",
+              "RelativeDocumentMoniker": "Lab2\\Factory\\DomesticSubscription.cs",
+              "ToolTip": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab2\\Lab2\\Factory\\DomesticSubscription.cs",
+              "RelativeToolTip": "Lab2\\Factory\\DomesticSubscription.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T17:24:57.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BalaxyDevices.cs",
+              "DocumentMoniker": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab2\\Lab2\\TechFactory\\BalaxyDevices.cs",
+              "RelativeDocumentMoniker": "Lab2\\TechFactory\\BalaxyDevices.cs",
+              "ToolTip": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab2\\Lab2\\TechFactory\\BalaxyDevices.cs",
+              "RelativeToolTip": "Lab2\\TechFactory\\BalaxyDevices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T17:24:57.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BalaxyFactory.cs",
+              "DocumentMoniker": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab2\\Lab2\\TechFactory\\BalaxyFactory.cs",
+              "RelativeDocumentMoniker": "Lab2\\TechFactory\\BalaxyFactory.cs",
+              "ToolTip": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab2\\Lab2\\TechFactory\\BalaxyFactory.cs",
+              "RelativeToolTip": "Lab2\\TechFactory\\BalaxyFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T17:24:57.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDeviceFactory.cs",
+              "DocumentMoniker": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab2\\Lab2\\TechFactory\\IDeviceFactory.cs",
+              "RelativeDocumentMoniker": "Lab2\\TechFactory\\IDeviceFactory.cs",
+              "ToolTip": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab2\\Lab2\\TechFactory\\IDeviceFactory.cs",
+              "RelativeToolTip": "Lab2\\TechFactory\\IDeviceFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T17:24:57.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDeviceInterfaces.cs",
+              "DocumentMoniker": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab2\\Lab2\\TechFactory\\IDeviceInterfaces.cs",
+              "RelativeDocumentMoniker": "Lab2\\TechFactory\\IDeviceInterfaces.cs",
+              "ToolTip": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab2\\Lab2\\TechFactory\\IDeviceInterfaces.cs",
+              "RelativeToolTip": "Lab2\\TechFactory\\IDeviceInterfaces.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T17:24:57.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProneDevices.cs",
+              "DocumentMoniker": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab2\\Lab2\\TechFactory\\IProneDevices.cs",
+              "RelativeDocumentMoniker": "Lab2\\TechFactory\\IProneDevices.cs",
+              "ToolTip": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab2\\Lab2\\TechFactory\\IProneDevices.cs",
+              "RelativeToolTip": "Lab2\\TechFactory\\IProneDevices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T17:24:57.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProneFactory.cs",
+              "DocumentMoniker": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab2\\Lab2\\TechFactory\\IProneFactory.cs",
+              "RelativeDocumentMoniker": "Lab2\\TechFactory\\IProneFactory.cs",
+              "ToolTip": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab2\\Lab2\\TechFactory\\IProneFactory.cs",
+              "RelativeToolTip": "Lab2\\TechFactory\\IProneFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T17:24:57.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KiaomiDevices.cs",
+              "DocumentMoniker": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab2\\Lab2\\TechFactory\\KiaomiDevices.cs",
+              "RelativeDocumentMoniker": "Lab2\\TechFactory\\KiaomiDevices.cs",
+              "ToolTip": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab2\\Lab2\\TechFactory\\KiaomiDevices.cs",
+              "RelativeToolTip": "Lab2\\TechFactory\\KiaomiDevices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T17:24:57.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KiaomiFactory.cs",
+              "DocumentMoniker": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab2\\Lab2\\TechFactory\\KiaomiFactory.cs",
+              "RelativeDocumentMoniker": "Lab2\\TechFactory\\KiaomiFactory.cs",
+              "ToolTip": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab2\\Lab2\\TechFactory\\KiaomiFactory.cs",
+              "RelativeToolTip": "Lab2\\TechFactory\\KiaomiFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T17:24:58.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TotSubscription.cs",
+              "DocumentMoniker": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab2\\Lab2\\Factory\\TotSubscription.cs",
+              "RelativeDocumentMoniker": "Lab2\\Factory\\TotSubscription.cs",
+              "ToolTip": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab2\\Lab2\\Factory\\TotSubscription.cs",
+              "RelativeToolTip": "Lab2\\Factory\\TotSubscription.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T17:24:58.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PremiumSubscription.cs",
+              "DocumentMoniker": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab2\\Lab2\\Factory\\PremiumSubscription.cs",
+              "RelativeDocumentMoniker": "Lab2\\Factory\\PremiumSubscription.cs",
+              "ToolTip": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab2\\Lab2\\Factory\\PremiumSubscription.cs",
+              "RelativeToolTip": "Lab2\\Factory\\PremiumSubscription.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T17:24:58.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EducationalSubscription.cs",
+              "DocumentMoniker": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab2\\Lab2\\Factory\\EducationalSubscription.cs",
+              "RelativeDocumentMoniker": "Lab2\\Factory\\EducationalSubscription.cs",
+              "ToolTip": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab2\\Lab2\\Factory\\EducationalSubscription.cs",
+              "RelativeToolTip": "Lab2\\Factory\\EducationalSubscription.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T17:24:58.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICharacterBuilder.cs",
+              "DocumentMoniker": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab2\\Lab2\\Builder\\ICharacterBuilder.cs",
+              "RelativeDocumentMoniker": "Lab2\\Builder\\ICharacterBuilder.cs",
+              "ToolTip": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab2\\Lab2\\Builder\\ICharacterBuilder.cs",
+              "RelativeToolTip": "Lab2\\Builder\\ICharacterBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T17:24:58.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HeroBuilder.cs",
+              "DocumentMoniker": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab2\\Lab2\\Builder\\HeroBuilder.cs",
+              "RelativeDocumentMoniker": "Lab2\\Builder\\HeroBuilder.cs",
+              "ToolTip": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab2\\Lab2\\Builder\\HeroBuilder.cs",
+              "RelativeToolTip": "Lab2\\Builder\\HeroBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T17:24:58.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EnemyBuilder.cs",
+              "DocumentMoniker": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab2\\Lab2\\Builder\\EnemyBuilder.cs",
+              "RelativeDocumentMoniker": "Lab2\\Builder\\EnemyBuilder.cs",
+              "ToolTip": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab2\\Lab2\\Builder\\EnemyBuilder.cs",
+              "RelativeToolTip": "Lab2\\Builder\\EnemyBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T17:24:58.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CharacterDirector.cs",
+              "DocumentMoniker": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab2\\Lab2\\Builder\\CharacterDirector.cs",
+              "RelativeDocumentMoniker": "Lab2\\Builder\\CharacterDirector.cs",
+              "ToolTip": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab2\\Lab2\\Builder\\CharacterDirector.cs",
+              "RelativeToolTip": "Lab2\\Builder\\CharacterDirector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T17:24:58.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Character.cs",
+              "DocumentMoniker": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab2\\Lab2\\Builder\\Character.cs",
+              "RelativeDocumentMoniker": "Lab2\\Builder\\Character.cs",
+              "ToolTip": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab2\\Lab2\\Builder\\Character.cs",
+              "RelativeToolTip": "Lab2\\Builder\\Character.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T17:24:58.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Virus.cs",
+              "DocumentMoniker": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab2\\Lab2\\Prototype\\Virus.cs",
+              "RelativeDocumentMoniker": "Lab2\\Prototype\\Virus.cs",
+              "ToolTip": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab2\\Lab2\\Prototype\\Virus.cs",
+              "RelativeToolTip": "Lab2\\Prototype\\Virus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T17:24:58.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Authenticator.cs",
+              "DocumentMoniker": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab2\\Lab2\\Alone\\Authenticator.cs",
+              "RelativeDocumentMoniker": "Lab2\\Alone\\Authenticator.cs",
+              "ToolTip": "D:\\ffffffffffffff\\Lab1\\konstruyuvannya\\Lab2\\Lab2\\Alone\\Authenticator.cs",
+              "RelativeToolTip": "Lab2\\Alone\\Authenticator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T17:24:58.079Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+D:\ffffffffffffff\Lab3\Lab_3\Lab_3\bin\Debug\Lab_3.exe.config
+D:\ffffffffffffff\Lab3\Lab_3\Lab_3\bin\Debug\Lab_3.exe
+D:\ffffffffffffff\Lab3\Lab_3\Lab_3\bin\Debug\Lab_3.pdb
+D:\ffffffffffffff\Lab3\Lab_3\Lab_3\obj\Debug\Lab_3.csproj.AssemblyReference.cache
+D:\ffffffffffffff\Lab3\Lab_3\Lab_3\obj\Debug\Lab_3.csproj.CoreCompileInputs.cache
+D:\ffffffffffffff\Lab3\Lab_3\Lab_3\obj\Debug\Lab_3.exe
+D:\ffffffffffffff\Lab3\Lab_3\Lab_3\obj\Debug\Lab_3.pdb
+D:\ffffffffffffff\Lab3\Lab_3\Lab_3\obj\Debug\Lab_3.exe.config
