@@ -1,0 +1,8 @@
+D:\ffffffffffffff\Lab1\konstruyuvannya\Lab4\Lab4\bin\Debug\Lab4.exe.config
+D:\ffffffffffffff\Lab1\konstruyuvannya\Lab4\Lab4\bin\Debug\Lab4.exe
+D:\ffffffffffffff\Lab1\konstruyuvannya\Lab4\Lab4\bin\Debug\Lab4.pdb
+D:\ffffffffffffff\Lab1\konstruyuvannya\Lab4\Lab4\obj\Debug\Lab4.csproj.AssemblyReference.cache
+D:\ffffffffffffff\Lab1\konstruyuvannya\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+D:\ffffffffffffff\Lab1\konstruyuvannya\Lab4\Lab4\obj\Debug\Lab4.exe
+D:\ffffffffffffff\Lab1\konstruyuvannya\Lab4\Lab4\obj\Debug\Lab4.pdb
+D:\ffffffffffffff\Lab1\konstruyuvannya\Lab4\Lab4\obj\Debug\Lab4.exe.config
